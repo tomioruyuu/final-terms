@@ -17,4 +17,4 @@ Route::post('/reset-password', [AuthController::class, 'reset']);   // 1.5
 
 
 
-// thanh có người yêu
+// thanh có người ye
